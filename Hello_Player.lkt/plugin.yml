@@ -1,0 +1,5 @@
+main: main.lua
+version: 1.0.0
+name: Hello-Player
+description: Says hello if you jsut want someone to to say hi to you
+author: jammehcow

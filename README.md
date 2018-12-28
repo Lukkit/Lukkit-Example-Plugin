@@ -1,2 +1,2 @@
 # Lukkit Example Plugin
-A basic example plugin for Lukkit
+A collection of example plugins for Lukkit

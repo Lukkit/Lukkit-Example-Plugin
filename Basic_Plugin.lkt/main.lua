@@ -1,7 +1,7 @@
 plugin.onEnable(function()
-    logger.info("Enabling Basic Plugin v1.0.0! (Lukkit-Example-Plugin)")
+    logger.info("[Lukkit-Example-Plugin] Enabling Basic Plugin v1.0.0!")
 end)
 
 plugin.onDisable(function()
-    logger.info("Disable Basic Plugin v1.0.0! (Lukkit-Example-Plugin)")
+    logger.info("[Lukkit-Example-Plugin] Disable Basic Plugin v1.0.0!")
 end)

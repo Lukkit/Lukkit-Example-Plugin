@@ -1,9 +1,9 @@
 plugin.onEnable(function()
-    logger.info("Enabling Hello Player v1.0.0! (Lukkit-Example-Plugin)")
+    logger.info("[Lukkit-Example-Plugin] Enabling Hello Player v1.0.0!")
 end)
 
 plugin.onDisable(function()
-    logger.info("Disable Hello Player v1.0.0! (Lukkit-Example-Plugin)")
+    logger.info("[Lukkit-Example-Plugin] Disable Hello Player v1.0.0!")
 end)
 
 plugin.addCommand("hello", {name="hello", description="Says hello to you (the player)"}, function(cmd)
